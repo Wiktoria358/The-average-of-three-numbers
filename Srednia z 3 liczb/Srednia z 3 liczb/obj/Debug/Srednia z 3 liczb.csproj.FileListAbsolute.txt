@@ -1,0 +1,11 @@
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\bin\Debug\Srednia z 3 liczb.exe.config
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\bin\Debug\Srednia z 3 liczb.exe
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\bin\Debug\Srednia z 3 liczb.pdb
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\obj\Debug\Srednia z 3 liczb.csproj.AssemblyReference.cache
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\obj\Debug\Srednia z 3 liczb.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\obj\Debug\Srednia_z_3_liczb.Form1.resources
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\obj\Debug\Srednia_z_3_liczb.Properties.Resources.resources
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\obj\Debug\Srednia z 3 liczb.csproj.GenerateResource.cache
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\obj\Debug\Srednia z 3 liczb.csproj.CoreCompileInputs.cache
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\obj\Debug\Srednia z 3 liczb.exe
+C:\Users\wkupi\source\repos\Srednia z 3 liczb\Srednia z 3 liczb\obj\Debug\Srednia z 3 liczb.pdb
